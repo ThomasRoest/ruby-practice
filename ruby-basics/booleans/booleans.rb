@@ -49,5 +49,5 @@ new_name = " "
 new_name ||= "Andrew"
 
 puts new_name
-#this wil puts piet
+#this wil puts
 

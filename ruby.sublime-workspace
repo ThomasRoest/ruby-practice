@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"array",
+				"array"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"se",
+				"separator"
+			],
+			[
+				"ba",
+				"bank_account"
+			],
+			[
 				"full",
 				"full_name_with_title"
 			],
@@ -120,10 +136,6 @@
 				"transition: "
 			],
 			[
-				"ba",
-				"background-color: "
-			],
-			[
 				"min",
 				"min-width: "
 			],
@@ -140,10 +152,58 @@
 	"buffers":
 	[
 		{
-			"file": "ruby-basics/objects_classes/name.rb",
+			"file": "ruby-basics/blocks/calling_blocks.rb",
 			"settings":
 			{
-				"buffer_size": 1051,
+				"buffer_size": 289,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ruby-basics/blocks/simple_benchmarker.rb",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ruby-basics/blocks/my_array.rb",
+			"settings":
+			{
+				"buffer_size": 385,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ruby-basics/blocks/monster.rb",
+			"settings":
+			{
+				"buffer_size": 1325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ruby-basics/modules/modules.rb",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ruby-basics/modules/laser_bots.rb",
+			"settings":
+			{
+				"buffer_size": 223,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ruby-basics/blocks/hashes_arrays.rb",
+			"settings":
+			{
+				"buffer_size": 1011,
 				"line_ending": "Unix"
 			}
 		}
@@ -180,6 +240,13 @@
 	},
 	"file_history":
 	[
+		"/home/thomas/ruby/ruby-basics/blocks/block_arguments.rb",
+		"/home/thomas/ruby/ruby-basics/blocks/block_method.rb",
+		"/home/thomas/ruby/ruby-basics/objects_classes/bank_account.rb",
+		"/home/thomas/ruby/ruby-basics/blocks/blocks.rb",
+		"/home/thomas/ruby/ruby-basics/blocks/blocks",
+		"/home/thomas/ruby/ruby-basics/booleans/booleans.rb",
+		"/home/thomas/ruby/ruby-basics/objects_classes/name.rb",
 		"/home/thomas/ruby/ruby-basics/objects_classes/class_object.rb",
 		"/home/thomas/projects/nv_app/app/assets/stylesheets/layout/_main-header.scss",
 		"/home/thomas/projects/nv_app/db/migrate/20150802092149_add_admin_to_users.rb",
@@ -300,14 +367,7 @@
 		"/home/thomas/projects/data-vacatures/app/assets/stylesheets/layout/_grid-sections.css.scss",
 		"/home/thomas/projects/data-vacatures/app/views/courses/_course.html.erb",
 		"/home/thomas/projects/data-vacatures/app/views/layouts/_typekit.html.erb",
-		"/home/thomas/projects/data-vacatures/app/views/users/mijn_vacatures.html.erb",
-		"/home/thomas/projects/data-vacatures/Gemfile",
-		"/home/thomas/projects/thomasroest/js/applicationText.js",
-		"/home/thomas/projects/thomasroest/css/app.scss",
-		"/home/thomas/projects/thomasroest/index.html",
-		"/home/thomas/ror-thomas/thomasroest/quiz.html",
-		"/home/thomas/ror-thomas/data-vacatures/app/assets/stylesheets/courses.css.scss",
-		"/home/thomas/ror-thomas/data-vacatures/app/assets/stylesheets/modules/_buttons.css.scss"
+		"/home/thomas/projects/data-vacatures/app/views/users/mijn_vacatures.html.erb"
 	],
 	"find":
 	{
@@ -325,6 +385,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"yield",
 			"remember_digest",
 			"figar",
 			"ul",
@@ -368,23 +429,48 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "ruby-basics/objects_classes/name.rb",
+					"file": "ruby-basics/blocks/calling_blocks.rb",
 					"settings":
 					{
-						"buffer_size": 1051,
+						"buffer_size": 289,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								924,
-								924
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ruby-basics/blocks/simple_benchmarker.rb",
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								495,
+								495
 							]
 						],
 						"settings":
@@ -394,7 +480,141 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 225.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ruby-basics/blocks/my_array.rb",
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ruby-basics/blocks/monster.rb",
+					"settings":
+					{
+						"buffer_size": 1325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ruby-basics/modules/modules.rb",
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ruby-basics/modules/laser_bots.rb",
+					"settings":
+					{
+						"buffer_size": 223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "ruby-basics/blocks/hashes_arrays.rb",
+					"settings":
+					{
+						"buffer_size": 1011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								862,
+								862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -977,7 +1197,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 263.0,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
 	"status_bar_visible": true
 }

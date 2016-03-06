@@ -9,7 +9,6 @@ class BankAccount
 
   def add_transaction(description, amount)
     @transactions.push(description: description, amount: amount)
-
   end
 
   def credit(description, amount)

@@ -37,3 +37,4 @@ censor_object = Censor.new(test_string)
 p censor_object.check_fuck
 
 p censor_object.question2
+
